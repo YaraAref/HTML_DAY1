@@ -1,0 +1,19 @@
+input{
+    width:350px;
+    height:20px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: white;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    height: 40px;
+    width:350px;
+    cursor:pointer;
+}
+p{
+    font-size: 15px;
+}

@@ -1,0 +1,24 @@
+.div1{
+    width: 500px;
+    height: 130px;
+    margin-bottom: 5px;
+    margin-top:0;
+    margin-left: 10px;
+}
+.div2{
+    display:inline-block;
+    width:280px;
+}
+img{
+    width: 200px;
+    height:110px;
+}
+.desc{
+    color: rgb(150, 147, 147);
+    margin-left: 5px;
+    margin-bottom: 1px;
+}
+h1{
+    font-size: 20px;
+    margin-bottom: 1px;
+}

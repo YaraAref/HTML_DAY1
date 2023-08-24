@@ -1,0 +1,32 @@
+#head1 {
+    margin-bottom: 25px;
+    font:45px;
+} 
+input {
+    display: block;
+    background-color: rgb(224, 223, 223);
+    border: none;
+    height:50px;
+    width:400px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    padding-left: 25px;
+} 
+button{
+    border: none;
+    height:50px;
+    font-size: 15px;
+    margin-right: 20px;
+    font-style: bold;
+    font:20px;
+}
+#b1 {
+    width:120px;
+    background-color: black;
+    color: white;
+}
+#b2 {
+    width:150px;
+    background-color: rgb(224, 223, 223);;
+    color:black;
+}

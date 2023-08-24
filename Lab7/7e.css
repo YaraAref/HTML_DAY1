@@ -1,0 +1,9 @@
+.textfield{
+    border:none;
+    border-radius: 20px;
+    border-width: 1px;
+    height: 15px;
+    width:300px;
+    padding-left: 15px;
+    box-shadow: 2px 2px 2px;
+}

@@ -1,0 +1,15 @@
+img {
+    display: block;
+    width: 200px;
+    height:30;
+    width: 400px
+  }
+input{
+    border:none;
+    border-radius: 20px;
+    border-width: 1px;
+    height: 30px;
+    width:400px;
+    padding-left: 15px;
+    box-shadow: 2px 2px 2px;
+}
